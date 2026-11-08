@@ -7,3 +7,5 @@ This resource comes from Castlori, an online platform for original stories, comi
 - [Read the full creator guide](https://guide.castlori.com/)
 - [Download the printable worksheet](https://guide.castlori.com/downloads/character-world-story-planning-worksheet.pdf)
 - [Visit Castlori](https://castlori.com/)
+
+Questions about Castlori? [Email the support inbox](mailto:castlori-support@googlegroups.com).
