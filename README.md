@@ -5,6 +5,7 @@ A free, reusable prompt for turning a character’s goal into a scene with press
 This resource comes from Castlori, an online platform for original stories, comics, and manga. You can use the exercise without creating a Castlori account.
 
 - [Read the full creator guide](https://guide.castlori.com/)
+- [See scene-planning examples in fantasy, mystery, and slice of life](https://guide.castlori.com/scene-planning-examples/)
 - [Download the printable worksheet](https://guide.castlori.com/downloads/character-world-story-planning-worksheet.pdf)
 - [Visit Castlori](https://castlori.com/)
 
