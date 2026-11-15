@@ -8,6 +8,7 @@ This resource comes from Castlori, an online platform for original stories, comi
 
 - [Read the full creator guide](https://guide.castlori.com/)
 - [See scene-planning examples in fantasy, mystery, and slice of life](https://guide.castlori.com/scene-planning-examples/)
+- [Read the serial-fiction continuity guide and copy a blank record](https://guide.castlori.com/continuity-worksheet/)
 - [Download the printable worksheet](https://guide.castlori.com/downloads/character-world-story-planning-worksheet.pdf)
 - [Visit Castlori](https://castlori.com/)
 
