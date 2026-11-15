@@ -2,6 +2,8 @@
 
 A free, reusable prompt for turning a character’s goal into a scene with pressure and a visible consequence. Fill in the five lines in [SCENE-WORKSHEET.md](SCENE-WORKSHEET.md), then use [worked-example.md](worked-example.md) as a model. The worksheet works as plain Markdown; no account or special tool is needed.
 
+Writing a serial? Use the [Serial Continuity Ledger](SERIAL-CONTINUITY-LEDGER.md) to track accepted facts, character knowledge, reader clues, and consequences between chapters. It includes blank tables, an invented worked example, and an optional AI review prompt.
+
 This resource comes from Castlori, an online platform for original stories, comics, and manga. You can use the exercise without creating a Castlori account.
 
 - [Read the full creator guide](https://guide.castlori.com/)
