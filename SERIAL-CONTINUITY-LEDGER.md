@@ -2,6 +2,8 @@
 
 A free, manual worksheet for keeping track of what happened, who knows about it, and what a later chapter must respect. Copy it into a notebook, spreadsheet, or Markdown file. No account, upload, payment, or AI tool is required.
 
+[Fill in a continuity record in your browser](https://guide.castlori.com/continuity-worksheet/#blank-record), or copy the blank tables below.
+
 ## Start with one scene
 
 Record facts the accepted scene actually establishes. Keep planned events and possible twists in a separate section until you choose them. A character's suspicion is a belief; it is not automatically a fact about the world.
